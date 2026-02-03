@@ -1,0 +1,6 @@
+windows_are_dirty = 100
+while windows_are_dirty > 0 :
+  print("Wipe On")
+  print("Wipe Off")
+  windows_are_dirty -= 1
+print("Windows are Clean")
