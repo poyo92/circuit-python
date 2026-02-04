@@ -1,0 +1,9 @@
+try:
+  print("scanning area")
+  input(x)
+  print('extermination complete, the anomaly', x, 'has been contained')
+except NameError:
+  print('x hasnt been secured anomaly escaped')
+except:
+  print("Something else went wrong")
+  
