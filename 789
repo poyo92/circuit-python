@@ -1,0 +1,13 @@
+x=0
+while x<6:
+    print(x)
+    x += 1
+while x==6:
+    print (x, "is scared of 7")
+    x+=1
+while x<9:
+    print(x)
+    x+=1
+while x==9:
+    print (x, "was eaten")
+    x+=1
