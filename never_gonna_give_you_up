@@ -1,0 +1,46 @@
+def print_lyrics1():
+    print("we're no strangers to love")
+    print("you know the rules and so do I")
+    print("a full commitment is what Im thinkin of")
+    print("you wouldnt get this from any other guy")
+  
+def print_prechorus1():
+    print("I just wanna tell you how im feeling")
+    print("gotta make you understand")
+
+def print_chorus():
+    print("never gonna give you up")
+    print("never gonna let you down")
+    print("never gonna run around and desert you")
+    print("never gonna make you cry")
+    print("never gonna say goodbye")
+    print("never gonna tell a lie or hurt you")
+  
+def print_lyrics2():
+    print("we've known eachother for so long")
+    print("your heart been aching but your too shy to say it")
+    print("inside we both know whats been goin on")
+    print("we know the game and we're gonna play it")
+  
+def print_prechorus2():
+    print("and if you ask me how im feeling")
+    print("dont tell me your too blind to see")
+    
+
+  
+  
+
+def main() :  
+  print_lyrics1()
+  print_prechorus1()
+  print_chorus()
+  print_lyrics2()
+  print_prechorus2()
+  print_chorus()
+  print_lyrics2()
+  print_prechorus2()
+  print_chorus()
+  print_chorus()
+  print_chorus()
+  
+main()
