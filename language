@@ -1,0 +1,21 @@
+def greet(lang):
+    if lang == 'es':
+        return'Hola'
+    elif lang == 'fr':
+        return'Bonjour'
+    elif lang == 'jp':
+        return 'Konichiwa'
+    elif lang == 'ch':
+        return 'Ni Hao'
+    else:
+        return'Hello'
+  
+
+def main():
+    print(greet('en'),'Glenn')
+    print(greet('fr'),'Sabine')
+    print(greet('es'),'Carlos')
+    print(greet('jp'),'Sora')
+    print(greet('ch'),' Mei')
+    
+main()
