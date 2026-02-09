@@ -1,0 +1,16 @@
+from random import randint
+
+def main():
+    print("its Perry the platypus!!")
+    print("you've came in time Perry because i made the RADOMINATOR")
+    print("im going to make the tristate area RANDOM!!!") 
+    myRand = 0
+    print("~~~turning on~~")
+    while myRand < 10:
+        myRand = randint(1,10)
+        print(myRand)
+    print("SELF DESTRUCT SEQUENCE ACTIVATED")
+    print("***EXPOLOSION***")
+    
+
+main()
