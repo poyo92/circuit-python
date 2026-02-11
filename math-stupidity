@@ -1,0 +1,13 @@
+def my_math(x,y):
+    z=y/x
+    return z
+
+def main():
+    bingus = 420
+    chungus = 69
+    bemis= bingus / chungus
+    ploopy= bemis+bemis/bingus+chungus
+    sum = my_math(bingus, chungus)
+    print("The divident of", bingus, "/", chungus, "=",bemis)
+    print(ploopy, "= 2 times", bemis, "divided by", bingus, "plus", chungus)
+main()
