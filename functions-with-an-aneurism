@@ -1,0 +1,14 @@
+print('Playing with Builtin Python Functions')
+name = " toko, lingus"
+program_creation_date = "02/12/2026"
+print(name)
+print(program_creation_date)   
+print("input choese")
+x = input("")
+
+if x == "mozzarella":
+    print("mama mia")
+elif x == "cheddar":
+    print("jobaba is mad")
+elif x == "quersio":
+    print ("hace me una quesadilla por favor")
